@@ -37,7 +37,7 @@ I personally prefer using `Pinta` but you can draw your bitmap with any drawing 
 - Generate the example model:
 
 ```
-$ ./create_world.sh 0.1 1.0 my_model map.png
+$ ./create_world.sh 0.1 1.0 my_png_model map.png
 ```
 
 - This command will create a folder like below. This is your model:
